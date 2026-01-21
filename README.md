@@ -69,8 +69,7 @@ This project helps in:
 *Kasturi Sawant*  
 📍 Kolhapur, India  
 📧 Email: sawantkasturi72@gmail.com  
-🔗 LinkedIn: 
-
+🔗 LinkedIn: https://www.linkedin.com/public-profile/settings
 💻 GitHub: https://github.com/Kasturi-Sawant
 ---
 ⭐ If you like this project, feel free to give it a star!
