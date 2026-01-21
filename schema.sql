@@ -1,7 +1,7 @@
 -- ============================================================
 -- Project: Sales Analysis SQL Project (MySQL)
 -- File: schema.sql
--- Author: Kasturi Saawant
+-- Author: Kasturi Sawant
 -- Description: Database schema for Sales Analysis
 -- ============================================================
 
